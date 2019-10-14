@@ -1,2 +1,2 @@
 # restplus_demo
-基于flask_restplus 实现自动生成swagger在线文档
+基于flask_restplus blueprint 实现自动生成swagger在线文档 
